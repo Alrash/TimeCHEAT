@@ -1,11 +1,11 @@
 # TimeCHEAT
-The implementation of "TimeCHEAT: A Channel Harmony Strategy for Irregularly Sampled Multivariate Time Series Analysis"
+The implementation of "TimeCHEAT: A Channel Harmony Strategy for Irregularly Sampled Multivariate Time Series Analysis" in AAAI 2025.
 
 ![framework](https://github.com/user-attachments/assets/ea643b15-8ef6-42ca-92c6-ceacb537f5bf)
 
 Paper: [Arxiv](https://arxiv.org/pdf/2412.12886)
 
-Appendix: 
+Appendix: [Appendix](https://github.com/Alrash/TimeCHEAT/blob/main/AAAI2025__appendix.pdf)
 
 # Sample
 
@@ -24,11 +24,10 @@ python -u main.py -da phy -rf 96 -lr 1e-3 -ns 0 -e 60 -bs 64 -pa 8 -l 2 -ds impu
 # Citation
 
 ```
-@inproceedings{liu2024timesurl,
-  title={Timesurl: Self-supervised contrastive learning for universal time series representation learning},
-  author={Liu, Jiexi and Chen, Songcan},
+@inproceedings{liu2025TimeCHEAT,
+  title={TimeCHEAT: A Channel Harmony Strategy for Irregularly Sampled Multivariate Time Series Analysis},
+  author={Liu, Jiexi and Cao, Meng and Chen, Songcan},
   booktitle={Proceedings of the AAAI conference on artificial intelligence},
-  volume={39},
   year={2025}
 }
 ```
@@ -36,7 +35,9 @@ python -u main.py -da phy -rf 96 -lr 1e-3 -ns 0 -e 60 -bs 64 -pa 8 -l 2 -ds impu
 # Acknowledgement
 
 [GrapFITi](https://github.com/yalavarthivk/GraFITi)
+
 [Time-Series-Library](https://github.com/thuml/Time-Series-Library)
+
 [PatchTST](https://github.com/yuqinie98/PatchTST)
 
 
