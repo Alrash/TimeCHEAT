@@ -1,6 +1,11 @@
 # TimeCHEAT
 The implementation of "TimeCHEAT: A Channel Harmony Strategy for Irregularly Sampled Multivariate Time Series Analysis"
 
+![framework](https://github.com/user-attachments/assets/ea643b15-8ef6-42ca-92c6-ceacb537f5bf)
+
+Paper: [Arxiv](https://arxiv.org/pdf/2412.12886)
+
+Appendix: 
 
 # Sample
 
@@ -16,7 +21,7 @@ python -u main.py -da phy -rf 96 -lr 1e-3 -ns 0 -e 60 -bs 64 -pa 8 -l 2 -ds impu
 ```
 
 
-# Cite
+# Citation
 
 ```
 @inproceedings{liu2024timesurl,
@@ -31,6 +36,8 @@ python -u main.py -da phy -rf 96 -lr 1e-3 -ns 0 -e 60 -bs 64 -pa 8 -l 2 -ds impu
 # Acknowledgement
 
 [GrapFITi](https://github.com/yalavarthivk/GraFITi)
+[Time-Series-Library](https://github.com/thuml/Time-Series-Library)
+[PatchTST](https://github.com/yuqinie98/PatchTST)
 
 
 # Email
