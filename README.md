@@ -30,7 +30,7 @@ python -u main.py -da phy -rf 96 -lr 1e-3 -ns 0 -e 60 -bs 64 -pa 8 -l 2 -ds impu
 
 # Acknowledgement
 
-[GrapFITi](!https://github.com/yalavarthivk/GraFITi)
+[GrapFITi](https://github.com/yalavarthivk/GraFITi)
 
 
 # Email
