@@ -24,10 +24,13 @@ python -u main.py -da phy -rf 96 -lr 1e-3 -ns 0 -e 60 -bs 64 -pa 8 -l 2 -ds impu
 # Citation
 
 ```
-@inproceedings{liu2025TimeCHEAT,
+@inproceedings{liu2025timecheat,
   title={TimeCHEAT: A Channel Harmony Strategy for Irregularly Sampled Multivariate Time Series Analysis},
   author={Liu, Jiexi and Cao, Meng and Chen, Songcan},
-  booktitle={Proceedings of the AAAI conference on artificial intelligence},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={18},
+  pages={18861--18869},
   year={2025}
 }
 ```
